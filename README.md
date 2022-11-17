@@ -24,10 +24,10 @@ E-commerce platforms like Unicorn allow people to buy products online: from book
  * Spreadsheets Dashboard
  * Powerpoint Presentation
 
-==Python== , ==SQLite== , ==Tableau== , ==Data Visualisation== , ==MicrosoftPowerQuery== , ==Spreadsheets== , ==Data Storytelling== 
+### **Python | SQLite | Tableau | Data Visualisation | MicrosoftPowerQuery | Spreadsheets | Data Storytelling** 
 
 *PokemonStockPhoto*
 # Pokemon Game
 This script was completed in conjunction with an instructor teaching Object Oriented Programming with Python. I have a few ideas on how to build this out into an easier to use game!
 
-==Pokemon== , ==Python== , ==Object Oriented Programming==
+### **Pokemon | Python | Object Oriented Programming**
