@@ -19,7 +19,7 @@ ForestQuery is on a mission to combat deforestation around the world and raise a
 
 
 
-![](images/Unicorn Thumbnail.png)
+![](images/Unicorn-Thumbnail.png)
 # Proft Analysis Presentation 
 E-commerce platforms like Unicorn allow people to buy products online: from books, toys, clothes, and shoes to food, furniture, and other household items. The following dataset includes Unicorn sales data from the years 2015-2018. The DA Team has been asked to analyze the data, find interesting insights and identify weak areas and opportunities for Unicorn to boost business growth.
 
@@ -29,7 +29,7 @@ E-commerce platforms like Unicorn allow people to buy products online: from book
 
 ### **Python | SQLite | Tableau | Data Visualisation | MicrosoftPowerQuery | Spreadsheets | Data Storytelling** 
 
-![](images/Pokemon Thumbnail.jpg)
+![](images/Pokemon-Thumbnail.jpg)
 # Pokemon Game
 This script was completed in conjunction with an instructor teaching Object Oriented Programming with Python. I have a few ideas on how to build this out into an easier to use game!
 
