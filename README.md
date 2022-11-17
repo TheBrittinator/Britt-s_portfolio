@@ -50,4 +50,6 @@ E-commerce platforms like Unicorn allow people to buy products online: from book
 # Pokemon Game
 This script was completed in conjunction with an instructor teaching Object Oriented Programming with Python. I have a few ideas on how to build this out into an easier to use game!
 
+ * [Pokemon Script](pokemon.py)
+
 ### **Python | Object Oriented Programming**
