@@ -5,7 +5,9 @@
 
 #### Hello, and thank you for visiting my project page! I'm Brittney Kakie, a Data Analyst based in Georgia, United States. I discovered my passion for Data Analytics while working as a Pharmacy Automation Analyst at a regional health system. Through Masterschool I was able to acquire skills that I truly enjoy using, such as SQL, Python, and Descriptive Statistics. Please connect with me on LinkedIn for Analytics business inquiries.
 
-
+ - [LinkedIn](https://www.linkedin.com/in/bkakie/)
+<br>
+<br>
 <br>
 
 ![](images/forest.jpeg)
@@ -19,6 +21,10 @@ ForestQuery is on a mission to combat deforestation around the world and raise a
 ### **PostgreSQL | SQLite | Data Storytelling**
 
 <br>
+<br>
+<br>
+<br>
+<br>
 
 ![](images/UnicornThumbnail.png)
 # Proft Analysis Presentation 
@@ -30,6 +36,10 @@ E-commerce platforms like Unicorn allow people to buy products online: from book
 
 ### **Python | SQLite | Tableau | Data Visualisation | MicrosoftPowerQuery | Spreadsheets | Data Storytelling** 
 
+<br>
+<br>
+<br>
+<br>
 <br>
 
 ![](images/PokemonThumbnail.jpg)
