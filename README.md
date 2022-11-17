@@ -1,5 +1,5 @@
 # Brittney Kakie | Jr Data Analyst
-   ## Data Analytics Portfolio
+## Data Analytics Portfolio
 
 ---
 
@@ -30,7 +30,7 @@ ForestQuery is on a mission to combat deforestation around the world and raise a
 <br>
 
 ![](images/UnicornThumbnail.png)
-# Proft Analysis Presentation 
+# Profit Analysis Presentation 
 E-commerce platforms like Unicorn allow people to buy products online: from books, toys, clothes, and shoes to food, furniture, and other household items. The following dataset includes Unicorn sales data from the years 2015-2018. The DA Team has been asked to analyze the data, find interesting insights and identify weak areas and opportunities for Unicorn to boost business growth.
 
  * [Tableau](https://public.tableau.com/views/ProfitAnalysis-UnicornE-commerce/UnicornEcommerceDataAnalysis?:language=en-US&:display_count=n&:origin=viz_share_link)
