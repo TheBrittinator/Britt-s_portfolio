@@ -29,7 +29,7 @@ E-commerce platforms like Unicorn allow people to buy products online: from book
 
 ### **Python | SQLite | Tableau | Data Visualisation | MicrosoftPowerQuery | Spreadsheets | Data Storytelling** 
 
-![](images/Pokemon Thumbnail.jpeg)
+![](images/Pokemon Thumbnail.jpg)
 # Pokemon Game
 This script was completed in conjunction with an instructor teaching Object Oriented Programming with Python. I have a few ideas on how to build this out into an easier to use game!
 
