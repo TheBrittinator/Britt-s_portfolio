@@ -14,7 +14,7 @@ ForestQuery is on a mission to combat deforestation around the world and raise a
  * SQL Queries
  * Analysis Report
 
->[PostgreSQL] >[SQLite] >[Data Storytelling]
+>[PostgreSQL]< >[SQLite]< >[Data Storytelling]<
 
 *Powerpoint Thumbnail*
 # Proft Analysis Presentation 
