@@ -1,10 +1,14 @@
-# masterschool-repo
- A repository for masterschool capstone projects.
- 
- ## capstone_project.ipynb
- SQL Assignment with answers to the qestions are on this file.
+This readme file covers the contents of the Unicorn folder:
+
+## capstone_project.ipynb
+ SQL Assignment are on this file.
  - SQL has been formatted ✅
+
+##Tables
+- customers.csv
+- order_details.csv
+- orders.csv
+
+## Combined Tables
+- combined_capfiles.csv
  
- ## TO DO
- - combine csv files for the *spreadsheets portion* of the project:
- - using python or excel power query, all columns must have unique names and and exist on the new table.
