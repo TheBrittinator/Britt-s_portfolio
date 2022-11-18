@@ -4,8 +4,8 @@
 
 **This project uses Python to explore data related to bike share systems for three major cities in the United States—Chicago, New York City, and Washington. This program does the following:
 - import csv data 
-- computes descriptive statistics. 
-- script allows for raw input to create an interactive experience in the terminal to present these statistics.**
+- applies descriptive statistics 
+- allows for raw input to create an interactive experience in the terminal to present these statistics.**
 
 # **Python | Pandas | Error Handling | Descriptive Statistics**
 
