@@ -18,7 +18,7 @@ This project uses Python to explore data related to bike share systems for three
 - import csv data 
 - applies descriptive statistics 
 - allows for raw input to create an interactive experience in the terminal to present these statistics.**
-- [Program](https://github.com/TheBrittinator/Britt-s_portfolio/blob/d19e86de0d20d7807b5b7e6b5121981fa1466283/bikeshare_cmp/bikeshare_2_readme.md)
+- [Program](https://github.com/TheBrittinator/Britt-s_portfolio/blob/0ea515488f8264911383d9a8df0f50a86c914de3/bikeshare_cmp/bikeshare_program.py)
 
 ### **Python | Pandas | Error Handling | Descriptive Statistics**
 ---
