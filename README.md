@@ -20,7 +20,7 @@ This project uses Python to explore data related to bike share systems for three
 - allows for raw input to create an interactive experience in the terminal to present these statistics.**
 
 ### **Python | Pandas | Error Handling | Descriptive Statistics**
-
+---
 <br>
 <br>
 <br>
