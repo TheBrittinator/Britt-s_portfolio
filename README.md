@@ -12,6 +12,11 @@
 <br>
 <br>
 
+
+<br>
+<br>
+<br>
+
 ![](images/forest.jpeg)
 # Deforestation Analysis Using SQL
 ForestQuery is on a mission to combat deforestation around the world and raise awareness about this topic and its impact on the environment. The data analysis team has used SQL to identify successes as well as areas of concern. This project includes query codes and a detailed report of our findings. 
